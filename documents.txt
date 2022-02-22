@@ -1,0 +1,2 @@
+install vue-router
+add code in font awesome
